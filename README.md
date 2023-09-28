@@ -13,7 +13,7 @@ Week 1 covered the basics of microcontrollers, some basic circuitry, and how to 
 ### Week 2
 Week 2 went into a more in-depth example of microcontrollers. We created a simon-says game using Arduino for our members to learn more about both coding in Arduino and also how to do basic circuitry.
 
-A picture of a physical example is shown below ![physical_example](https://github.com/cespejo15/Simon-Says/blob/main/Simon-Says.jpeg)
+A picture of a physical example is shown below ![physical_example](https://github.com/cespejo15/Simon-Says/blob/main/Simon-Says.jpeg = 250x250)
 
 A picture of the TinkerCad example is shown below and linked here: [TinkerCad Example](https://www.tinkercad.com/things/9ludxbhLgMe-copy-of-ieee-simon-game/editel?tenant=circuits)
 ![tinkercad_example](https://github.com/cespejo15/Simon-Says/blob/main/Simon-Says_TinkerCAD.PNG)
