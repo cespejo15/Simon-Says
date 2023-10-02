@@ -1,6 +1,6 @@
-constexpr uint8_t BUTTON_ONE_PIN = A0;
+constexpr uint8_t BUTTON_ONE_PIN = A2;
 constexpr uint8_t BUTTON_TWO_PIN = A1;
-constexpr uint8_t BUTTON_THREE_PIN = A2;
+constexpr uint8_t BUTTON_THREE_PIN = A0;
 constexpr uint8_t START_GAME_BUTTON_PIN = A3;
 
 constexpr uint8_t LED_ONE_PIN = 2;
