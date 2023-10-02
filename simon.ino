@@ -110,7 +110,7 @@ ReadSequenceResult right_sequence(const int level, const int velocity) {
   set_all_leds(LOW);
   delay(250);
   set_all_leds(HIGH);
-  delay(500);
+  delay(375);
   set_all_leds(LOW);
   delay(500);
   int new_level = level;
