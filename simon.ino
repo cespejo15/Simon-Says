@@ -84,7 +84,7 @@ read_sequence(const uint8_t sequence[], const int level, const int velocity) {
         continue;
       }
       digitalWrite(chosen_led, HIGH);
-      delay(200);
+      delay(500);
       if (chosen_led == sequence[i]) {
         digitalWrite(chosen_led, LOW);
         break;
